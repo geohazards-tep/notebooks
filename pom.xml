@@ -11,7 +11,7 @@
   <packaging>rpm</packaging>
   <name>gep-notebooks</name>
   <description>Geohazards Thematic Exploitation Platform notebooks</description>
-  <version>0.2</version>
+  <version>0.3</version>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
