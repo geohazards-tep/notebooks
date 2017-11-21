@@ -60,7 +60,7 @@ libffi=3.2.1=1
 libgcc=5.2.0=0
 libgcc-ng=7.2.0=h7cc24e2_2
 libgfortran-ng=7.2.0=h9f7466a_2
-libiconv=1.15
+libiconv=1.15=h63c8f33_5
 libnetcdf=4.4.1=0
 libpng=1.6.32=hda9c8bc_2
 libsodium=1.0.10=0
