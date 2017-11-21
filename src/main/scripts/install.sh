@@ -2,10 +2,11 @@
 /opt/anaconda/bin/conda update conda -y
 
 /opt/anaconda/bin/conda install -y --file /tmp/.dependencies/packages.list
+/opt/anaconda/bin/conda create -n envlibi liconv 
 
 export PATH=/opt/anaconda/bin:$PATH
 export GDAL_DATA='/opt/anaconda/share/gdal'
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/anaconda/lib
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/opt/anaconda/lib:/opt/anaconda/envs/envli" 
 
 sed -i '26s/c++11/c++0x/' /opt/anaconda/lib/R/etc/Makeconf
 
