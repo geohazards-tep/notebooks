@@ -180,7 +180,7 @@ r-munsell=0.4.3=r3.3.2_0
 r-nlme=3.1_128=r3.3.2_0
 r-nloptr=1.0.4=r3.3.2_2
 r-nnet=7.3_12=r3.3.2_0
-r-openssl=0.9.5=r3.3.2_0
+r-openssl
 r-pbdzmq=0.2_4=r3.3.2_0
 r-pbkrtest=0.4_6=r3.3.2_0
 r-plyr=1.8.4=r3.3.2_0
