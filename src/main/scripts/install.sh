@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-yum remove miniconda -y && yum install miniconda -y && conda update conda -y
+/opt/anaconda/bin/conda update conda -y
 
 /opt/anaconda/bin/conda install -y --file /tmp/.dependencies/packages.list
 
