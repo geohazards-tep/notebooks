@@ -60,7 +60,7 @@ libffi=3.2.1=1
 libgcc=5.2.0=0
 libgcc-ng=7.2.0=h7cc24e2_2
 libgfortran-ng=7.2.0=h9f7466a_2
-libiconv=1.15=h63c8f33_5
+libiconv=1.14=0
 libnetcdf=4.4.1=0
 libpng=1.6.32=hda9c8bc_2
 libsodium=1.0.10=0
@@ -121,7 +121,7 @@ r-bh=1.62.0_1=r3.3.2_0
 r-bitops=1.0_6=r3.3.2_2
 r-boot=1.3_18=r3.3.2_0
 r-broom=0.4.1=r3.3.2_0
-r-car
+r-car=2.1_4=r3.3.2_0
 r-caret=6.0_73=r3.3.2_0
 r-catools=1.17.1=r3.3.2_2
 r-class=7.3_14=r3.3.2_0
@@ -180,7 +180,7 @@ r-munsell=0.4.3=r3.3.2_0
 r-nlme=3.1_128=r3.3.2_0
 r-nloptr=1.0.4=r3.3.2_2
 r-nnet=7.3_12=r3.3.2_0
-r-openssl
+r-openssl=0.9.5=r3.3.2_0
 r-pbdzmq=0.2_4=r3.3.2_0
 r-pbkrtest=0.4_6=r3.3.2_0
 r-plyr=1.8.4=r3.3.2_0
