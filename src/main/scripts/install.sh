@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 /opt/anaconda/bin/conda update conda -y
 
 /opt/anaconda/bin/conda install -y --file /tmp/.dependencies/packages.list
