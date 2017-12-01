@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 /opt/anaconda/bin/conda update conda -y
 
-/opt/anaconda/bin/conda install -y --file /tmp/.dependencies/packages.list
+/opt/anaconda/bin/conda install -y --file /tmp/.dependencies/packages.list 1>/tmp/output1 2>/tmp/error1
 /opt/anaconda/bin/conda create -n elibi libiconv=1.15=h63c8f33_5
 
 export PATH=/opt/anaconda/bin:$PATH
